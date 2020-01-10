@@ -1,6 +1,6 @@
 ## Preview
 
-[![Resume Preview](E:\Courses\GitHub\portfolia\img\website1.jpg)
+[![Resume Preview](https://github.com/akashjoffl/akashjoffl.github.io/blob/master/img/website1.JPG?raw=true)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 

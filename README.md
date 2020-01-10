@@ -42,15 +42,7 @@ You must have npm installed globally in order to use this build environment.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/akashjoffl/akashjoffl.github.io/issues).
 
-## About
-
-This was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
 ## Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT]
-(https://github.com/akashjoffl/akashjoffl.github.io/blob/master/LICENSE) license.
+    (https://github.com/akashjoffl/akashjoffl.github.io/blob/master/LICENSE) license.

@@ -40,7 +40,7 @@ You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/akashjoffl/akashjoffl.github.io/issues).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/akashjoffl/akashjoffl.github.io/issues).   
 
 ## Copyright and License
 
